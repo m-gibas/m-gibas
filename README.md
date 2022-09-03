@@ -1,4 +1,4 @@
-<b>Hi, I'm Max and I am a second year student of Applied Computer Science at the AGH University.
+<b>Hi, I'm Max and I am a third year student of Applied Computer Science at the AGH University.
 
 
 <!---
